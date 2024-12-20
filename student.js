@@ -1,3 +1,4 @@
+\\
 document = document.getElementById("form1").addEventListener("submit", submitFun1);
 
 var studentDataArr =JSON.parse(localStorage.getItem("studentData"))|| [];
